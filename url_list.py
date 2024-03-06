@@ -1,0 +1,9 @@
+urls=[
+    "http://www.huffingtonpost.com/feeds/verticals/technology/news.xml",
+    "http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "http://www.theverge.com/rss/group/features/index.xml",
+    "http://feeds.feedburner.com/TechCrunch/",
+    "http://feeds.wired.com/wired/index",
+    "http://www.techinsider.io/rss",
+    "http://recode.net/feed/"
+]
